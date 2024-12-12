@@ -3,4 +3,5 @@ uvicorn
 scikit-learn
 pandas
 numpy
-tensorflow==2.9.1
+tensorflow
+
